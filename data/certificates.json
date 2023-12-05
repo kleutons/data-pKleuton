@@ -1,0 +1,32 @@
+{
+    "DataCertificates" : [
+        {  
+            "name": "Profissão Programador",
+            "hours": 110,
+            "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certicates/pp.jpg",
+            "skills": ["React", "Next"],
+            "link": "https://e-certificado.com/login/visualizar?c=1786949AD583A4F811821700"
+        },
+        {  
+            "name": "iFood Programação do Zero",
+            "hours": 68,
+            "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certicates/ifood.jpg",
+            "skills": ["React", "Next"],
+            "link": "https://www.dio.me/certificate/9FD6F341"
+        },
+        {  
+            "name": "Descubra a Nuvem AWS",
+            "hours": 6,
+            "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certicates/aws.jpg",
+            "skills": ["React", "Next"],
+            "link": "https://www.dio.me/certificate/916EC9C1"
+        },
+        {  
+            "name": "Versionamento Git GitHub ",
+            "hours": 2,
+            "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certicates/git.jpg",
+            "skills": ["React", "Next"],
+            "link": "https://www.dio.me/certificate/32E3FA73"
+        }
+    ]
+}
