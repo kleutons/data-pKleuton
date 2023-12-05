@@ -1,5 +1,5 @@
 {
-    "DataSkills" : [
+    "data" : [
         {
             "name": "OutSystems",
             "icon": "<svg xmlns='http://www.w3.org/2000/svg' xml:space='preserve' style='shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd' viewBox='0 0 1000 1000' xmlns:xodm='http://www.corel.com/coreldraw/odm/2003'> <g> <path fill='currentColor' d='M499.62 12.477c-269.461,0 -487.903,218.442 -487.903,487.903 0,269.461 218.442,487.903 487.903,487.903 269.461,0 487.903,-218.442 487.903,-487.903 0,-269.461 -218.442,-487.903 -487.903,-487.903zm0 258.35c-126.779,0 -229.553,102.774 -229.553,229.553 0,126.779 102.774,229.553 229.553,229.553 126.779,0 229.553,-102.774 229.553,-229.553 0,-126.779 -102.774,-229.553 -229.553,-229.553z'/> </g> </svg>",

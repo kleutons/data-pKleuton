@@ -1,6 +1,5 @@
 {
-
-"DataProjects" : [
+    "data" : [
         {
             "slug": "myshop",
             "title": "MyShop e-commerce",
