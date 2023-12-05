@@ -30,7 +30,7 @@
             {  
                 "name": "Profissão Programador",
                 "hours": 110,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certicates/pp.jpg",
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/pp.jpg",
                 "skills": ["React", "Next"],
                 "link": "https://e-certificado.com/login/visualizar?c=1786949AD583A4F811821700"
             },
