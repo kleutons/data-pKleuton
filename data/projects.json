@@ -24,7 +24,11 @@
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop.jpg",
                 "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop_large.png",
                 "others": [
-                    "https:"	
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot1.jpg",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot2.jpg",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot3.jpg",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot4.jpg",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot5.jpg"	
                 ]
             }
         },
@@ -43,9 +47,7 @@
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube.jpg",
                 "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube_large.png",
-                "others": [
-                    "https:"	
-                ]
+                "others": null
             }
         },
         {
