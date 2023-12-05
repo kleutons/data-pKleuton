@@ -17,8 +17,8 @@
                 "React", "Next.js", "Node"
             ],
             "link": {
-                "repo": "",
-                "site": ""
+                "repo": "https://github.com/kleutons/my-shop",
+                "site": "https://myshop-kleuton.vercel.app"
             },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop.jpg",
@@ -41,8 +41,8 @@
                 "React"
             ],
             "link": {
-                "repo": "",
-                "site": ""
+                "repo": "https://github.com/kleutons/mytube",
+                "site": "https://kleutons.github.io/mytube"
             },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube.jpg",
@@ -59,8 +59,8 @@
                 "React", "Next.js", "Css", "Html"
             ],
             "link": {
-                "repo": "",
-                "site": ""
+                "repo": "https://github.com/kleutons/shopper-backend-v2",
+                "site": "https://shopper-frontend-v2.vercel.app"
             },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper.jpg",
@@ -79,8 +79,8 @@
                 "Php"
             ],
             "link": {
-                "repo": "",
-                "site": ""
+                "repo": "https://github.com/kleutons/capputeeno",
+                "site": "https://capputeeno-kleuton.vercel.app"
             },
             "img": { 
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt.jpg",
@@ -97,8 +97,8 @@
             "details": null,
             "techs": [ "Php"],
             "link": {
-                "repo": "",
-                "site": ""
+                "repo": "https://github.com/kleutons/Site-Avatar",
+                "site": "https://kleutons.github.io/Site-Avatar"
             },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar.jpg",
