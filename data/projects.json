@@ -18,8 +18,8 @@
                 "Angular", "TypeScript", "CSS"
             ],
             "link": {
-                "repo": "https://github.com/kleutons/my-shop",
-                "site": "https://myshop-kleuton.vercel.app"
+                "repo": "https://kleutons.github.io/angular-ibblog",
+                "site": "https://github.com/kleutons/angular-ibblog"
             },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_tub.png",
