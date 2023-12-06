@@ -47,7 +47,7 @@
                 "Sistema de busca de produtos e categorias para encontrar rapidamente o que você procura"
             ],
             "techs": [
-                "React", "Next.js", "Node"
+                "React", "Next.js", "Node", "TypeScript", "Tailwind"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/my-shop",
@@ -76,7 +76,7 @@
                 "Sistema de cache local, que controla o limite de uso da API do YouTube, que proporcionando uma economia considerável em novas consultas"
             ],
             "techs": [
-                "React" 
+                "React", "TypeScript", "Node.js", "Styled Components" 
             ],
             "link": {
                 "repo": "https://github.com/kleutons/mytube",
@@ -108,7 +108,7 @@
                 "Utilização do React Vite no frontend"
             ],
             "techs": [
-                "React", "Next.js", "Css", "Html"
+                "React", "Next.js", "Mysql", "TypeScript", "Styled Components"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/shopper-backend-v2",
@@ -136,7 +136,7 @@
                 "Inclusão de uma Página de Checkout"
             ],
             "techs": [
-                "Php"
+                "Next.js", "Node.js", "TypeScript", "Styled Components", "CSS"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/capputeeno",
@@ -163,7 +163,7 @@
                 "Página de comentários",
                 "Página de contato"
             ],
-            "techs": [ "Php"],
+            "techs": [ "Html", "JavaScript", "CSS" ],
             "link": {
                 "repo": "https://github.com/kleutons/Site-Avatar",
                 "site": "https://kleutons.github.io/Site-Avatar"
@@ -190,7 +190,7 @@
                 "Desenvolvido com PHP e base WordPress",
                 "Diversas funcionalidades adicionais em JavaScript"
             ],
-            "techs": ["Php", "JavaScript"],
+            "techs": ["Php", "Mysql", "JavaScript"],
             "link": {
                 "site": "https://ivansilvanoticia.com.br/"
             },
