@@ -1,6 +1,39 @@
 {
     "data" : [
         {
+            "slug": "ibblog",
+            "title": "iBBlog - Notícias do IBGE",
+            "description": "Desenvolvido utilizando Angular junto com a API externa do IBGE, o iBBlog possui exibição de notícias, notícias em destaque, notícias por categorias e muito mais, tudo isso para manter os visitantes sempre atualizados. Este projeto teve como objetivo aprimorar minhas habilidades de desenvolvimento de software Angular.",
+            "details": [
+                "Layout responsivo para uma ótima experiência em diferentes dispositivos.",
+                "Suporte para modos Escuro e Claro (Dark Mode e Light Mode) para personalizar a experiência do usuário.",
+                "Sistema de paginação 'Ver Mais' para explorar mais notícias.",
+                "Filtragem de notícias por categoria, facilitando a navegação.",
+                "Visualização de notícias individuais por ID.",
+                "Sistema de busca de notícias para encontrar informações específicas.",
+                "Layout de barra lateral (sidebar) para uma navegação intuitiva.",
+                "Uso de módulos, serviços, pipes personalizados e variáveis de ambiente para criar uma base sólida e escalável"
+            ],
+            "techs": [
+                "Angular", "TypeScript", "CSS"
+            ],
+            "link": {
+                "repo": "https://github.com/kleutons/my-shop",
+                "site": "https://myshop-kleuton.vercel.app"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ibblog/ibblog_ot5.png"
+                ]
+            }
+        },
+        {
             "slug": "myshop",
             "title": "MyShop e-commerce",
             "description": "MyShop foi meticulosamente desenvolvido para proporcionar uma experiência única e minimalista. Este e-commerce é concebido com um foco exclusivo nos produtos, visando a melhor usabilidade para o usuário. Apresentando um design limpo e elegante, sua missão é destacar os produtos, permitindo que você se concentre no que realmente importa e encontre facilmente os itens desejados para compra.",
@@ -21,14 +54,14 @@
                 "site": "https://myshop-kleuton.vercel.app"
             },
             "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop.jpg",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop_large.png",
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_large.png",
                 "others": [
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot1.jpg",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot2.jpg",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot3.jpg",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot4.jpg",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/mytube_ot5.jpg"	
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot5.png"	
                 ]
             }
         },
@@ -43,23 +76,37 @@
                 "Sistema de cache local, que controla o limite de uso da API do YouTube, que proporcionando uma economia considerável em novas consultas"
             ],
             "techs": [
-                "React"
+                "React" 
             ],
             "link": {
                 "repo": "https://github.com/kleutons/mytube",
                 "site": "https://kleutons.github.io/mytube"
             },
             "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube.jpg",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube_large.png",
-                "others": null
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/mytube/mytube_ot5.png"
+                ]
             }
         },
         {
             "slug": "shopper",
             "title": "Shopper - Desafio FullStack",
-            "description": "Este projeto foi baseado em um desafio Fullstack para a Shopper.com.br! Essa ferramenta, que permita atualizar os produtos de forma massiva usando com isso o envio de um arquivo csv, e com recursos adicionais. Com um design limpo e objetivo, esse projeto usa o Node.Js com back-end e React Vite como front-end.",
-            "details": null,
+            "description": "Desenvolvido como parte do desafio Fullstack para a Shopper.com.br, este projeto é uma ferramenta que possibilita a atualização massiva de produtos por meio do envio de um arquivo CSV, além de oferecer recursos adicionais de regas de negócio. Com um design limpo, objetivo e 100% responsivo",
+            "details": [
+                "Conexão com base de dados MySQL",
+                "Leitura de arquivo CSV",
+                "Atualização massiva de produtos via arquivo CSV",
+                "Regras de Negócio: a atualização de produtos só ocorre se as exigências da empresa forem atendidas",
+                "Exibição de produtos e seus respectivos kits da base de dados MySQL",
+                "Utilização do Node.js com Fastify no backend",
+                "Utilização do React Vite no frontend"
+            ],
             "techs": [
                 "React", "Next.js", "Css", "Html"
             ],
@@ -68,18 +115,26 @@
                 "site": "https://shopper-frontend-v2.vercel.app"
             },
             "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper.jpg",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper_large.png",
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_large.png",
                 "others": [
-                    "https:"	
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot2.png"
                 ]
             }
         },
         {
             "slug": "capputteeno",
             "title": "Capputteeno",
-            "description": "",
-            "details": null,
+            "description": "Neste projeto, compartilho a minha solução para o Desafio Frontend proposto pela Rocketseat, em colaboração com a talentosa Fernanda Kipper. Minha abordagem resultou em várias melhorias significativas, que incluem: a implementação de um Servidor Backend GraphQL e muito mais...",
+            "details": [
+                "Implementação de um Servidor Backend GraphQL",
+                "Criação de um Catálogo de Produtos com Paginação",
+                "Seleção de produtos por categoria",
+                "Sistema de busca de produtos pelo nome",
+                "Funcionalidade para adicionar e remover produtos do carrinho",
+                "Inclusão de uma Página de Checkout"
+            ],
             "techs": [
                 "Php"
             ],
@@ -88,28 +143,65 @@
                 "site": "https://capputeeno-kleuton.vercel.app"
             },
             "img": { 
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt.jpg",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt_large.png",
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_large.png",
                 "others": [
-                    "https:"	
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot4.png"
                 ]
             }
         },
         {
             "slug": "avatar",
             "title": "Avatar",
-            "description": "Esse site mostra detalhes do filme Avatar 2023, possui vídeo com trailer, fotos dos atores, página de comentários e de contatos. Desenvolvido com maestria durante o curso Profissão Programador, este projeto impressiona com sua simplicidade e eficiência, utilizando apenas HTML, CSS e JavaScript, sem uso de bibliotecas externa, mesmo assim fornece uma experimente completa com design responsivo em qualquer dispositivo e tamanho de tela.",
-            "details": null,
+            "description": "Este site apresenta detalhes do filme Avatar 2023 e inclui um vídeo com o trailer, fotos dos atores, uma página de comentários e uma de contato. Desenvolvido com maestria durante o curso Profissão Programador, este projeto impressiona pela sua simplicidade e eficiência. Utilizando apenas HTML, CSS e JavaScript, sem depender de bibliotecas externas, ele proporciona uma experiência completa com design responsivo em qualquer dispositivo e tamanho de tela.",
+            "details": [
+                "Vídeo com o trailer do filme",
+                "Página com Fotos dos atores",
+                "Página de comentários",
+                "Página de contato"
+            ],
             "techs": [ "Php"],
             "link": {
                 "repo": "https://github.com/kleutons/Site-Avatar",
                 "site": "https://kleutons.github.io/Site-Avatar"
             },
             "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar.jpg",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar_large.png",
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_large.png",
                 "others": [
-                    "https:"
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/avatar/avatar_ot4.png"
+                ]
+            }
+        },
+        {
+            "slug": "ivan",
+            "title": "Ivan Silva Notícias",
+            "description": "O portal de notícias da Bahia dedicado ao renomado radialista Ivan Silva em Sr. do Bonfim - BA. Este site é amplamente reconhecido e um dos mais populares na região. Com uma infraestrutura robusta capaz de suportar milhares de acessos diários, o portal oferece uma experiência de leitura fácil e personalizável.",
+            "details": [
+                "Infraestrutura para milhares de acessos diários",
+                "Experiência de leitura fácil e personalizável",
+                "Opções de Dark Mode e Light Mode",
+                "Desenvolvido com PHP e base WordPress",
+                "Diversas funcionalidades adicionais em JavaScript"
+            ],
+            "techs": ["Php", "JavaScript"],
+            "link": {
+                "site": "https://ivansilvanoticia.com.br/"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/ivan/ivan_ot4.png"
                 ]
             }
         }
