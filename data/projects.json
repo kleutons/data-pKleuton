@@ -107,7 +107,7 @@
                 "Utilização do React Vite no frontend"
             ],
             "techs": [
-                "React", "Next.js", "Mysql", "TypeScript", "Styled Components"
+                "Node", "React", "Mysql", "TypeScript", "Styled Components"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/shopper-backend-v2",
