@@ -35,8 +35,13 @@
         {
             "slug": "mytube",
             "title": "MyTube - Clone do Youtube",
-            "description": "Confira esse incrível projeto completo e responsivo que é um clone do YouTube, construído para consumir a API do Google e manter-se atualizado. Permite a listagem de vídeos por categoria, realiza buscas avançadas e até mesmo apresenta um sistema de login com uma página exclusiva para cada usuário. Um dos maiores desafios enfrentados durante o desenvolvimento foi a criação do Back-end utilizando Node.js. Além disso, criei um sistema de cache local, ele controla o limite de uso da API do YouTube, proporcionando uma economia considerável em novas consultas.",
-            "details": null,
+            "description": "Confira esse incrível projeto completo e responsivo que é um clone do YouTube, construído para consumir a API do Google e manter-se o site atualizado.",
+            "details": [
+                "Permite a listagem de vídeos por categoria",
+                "Realiza buscas por videos",
+                "Sistema de login local com uma página exclusiva para cada usuário",
+                "Sistema de cache local, que controla o limite de uso da API do YouTube, que proporcionando uma economia considerável em novas consultas"
+            ],
             "techs": [
                 "React"
             ],
