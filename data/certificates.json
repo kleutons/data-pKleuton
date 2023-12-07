@@ -28,32 +28,72 @@
         ],
         "DataCertificates" : [
             {  
+                "name": "Semana Programador 7x OutSystem",
+                "hours": 20,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_basic.jpg",
+                "skills": ["OutSystems", "LowCode"]
+            },
+            {  
+                "name": "Formação JavaScript Developer",
+                "hours": 39,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/javascript.jpg",
+                "skills": ["JavaScript", "Objetos e Classes", "Estrutura de Repetição", "Integração com APIs", "Variavies, Escopos e Tipos de Dados", "Arrays", "Promises e Assincronismo"],
+                "link": "https://www.dio.me/certificate/FFB9F139"
+            },
+            {  
                 "name": "Profissão Programador",
                 "hours": 110,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/pp.jpg",
-                "skills": ["React", "Next"],
+                "skills": ["React", "Next", "Node.js", "JavaScript", "TypeScript", "Mysql", "Styled Components", "Banco de Dados", "Itegração com APis", "Lógica de Programação"],
                 "link": "https://e-certificado.com/login/visualizar?c=1786949AD583A4F811821700"
+            },
+            {  
+                "name": "Formação Angular Developer",
+                "hours": 37,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/angular.jpg",
+                "skills": ["Angular", "Integração com APIs", "TypeScript", "Pipes", "Guards"],
+                "link": "https://www.dio.me/certificate/FBF5B1E8"
             },
             {  
                 "name": "iFood Programação do Zero",
                 "hours": 68,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/ifood.jpg",
-                "skills": ["React", "Next"],
+                "skills": ["Versionamento", "Metodologias Ágeis", "Lógica de Programação", "Funções", "Arrays", "Condicionais"],
                 "link": "https://www.dio.me/certificate/9FD6F341"
+            },
+            {  
+                "name": "Formação Lógica de Programação",
+                "hours": 41,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/logicap.jpg",
+                "skills": ["Lógica de Programação", "Algoritmos e Fluxogramas", "Variáveis", "Operadores e Expressões", "Estruturas Condicionais", "Estruturas de Repetição", "Funções", "Estrutura de Dados e Objetos"],
+                "link": "https://www.dio.me/certificate/4A1DBE9F"
             },
             {  
                 "name": "Descubra a Nuvem AWS",
                 "hours": 6,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/aws.jpg",
-                "skills": ["React", "Next"],
+                "skills": ["AWS", "Amazon", "Cloud"],
                 "link": "https://www.dio.me/certificate/916EC9C1"
             },
             {  
-                "name": "Versionamento Git GitHub ",
+                "name": "Versionamento Git GitHub",
                 "hours": 2,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/git.jpg",
-                "skills": ["React", "Next"],
+                "skills": ["Git", "GitHub", "Versionamento"],
                 "link": "https://www.dio.me/certificate/32E3FA73"
+            },
+            {  
+                "name": "Trabalhando em Equipes Ágeis - Método Ágil",
+                "hours": 3,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/magil.jpg",
+                "skills": ["Metodologias Ágeis", "Scrumm", "Kanban"],
+                "link": "https://www.dio.me/certificate/3C19712D"
+            },
+            {  
+                "name": "Masterclass com Foco em Node.js",
+                "hours": 4,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/node_basic.jpg",
+                "skills": ["Node.js"]
             }
         ]
     }
