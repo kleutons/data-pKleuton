@@ -47,7 +47,7 @@
                 "Sistema de busca de produtos e categorias para encontrar rapidamente o que você procura"
             ],
             "techs": [
-                "React", "Next.js", "Node", "TypeScript", "Tailwind"
+                "React", "Next.js", "Node.js", "TypeScript", "Tailwind"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/my-shop",
@@ -76,7 +76,7 @@
                 "Sistema de cache local, que controla o limite de uso da API do YouTube, que proporcionando uma economia considerável em novas consultas"
             ],
             "techs": [
-                "React", "TypeScript", "Node.js", "Styled Components" 
+                "React", "TypeScript", "Styled Components" 
             ],
             "link": {
                 "repo": "https://github.com/kleutons/mytube",
@@ -107,7 +107,7 @@
                 "Utilização do React Vite no frontend"
             ],
             "techs": [
-                "Node", "React", "Mysql", "TypeScript", "Styled Components"
+                "Node.js", "React", "Mysql", "TypeScript", "Styled Components"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/shopper-backend-v2",
@@ -135,7 +135,7 @@
                 "Inclusão de uma Página de Checkout"
             ],
             "techs": [
-                "Next.js", "Node.js", "TypeScript", "Styled Components", "CSS"
+                "Next.js", "TypeScript", "Styled Components", "CSS"
             ],
             "link": {
                 "repo": "https://github.com/kleutons/capputeeno",
