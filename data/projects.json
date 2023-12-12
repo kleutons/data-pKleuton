@@ -184,7 +184,7 @@
             }
         },
         {
-            "slug": "shopper",
+            "slug": "shopper-backend",
             "title": "Shopper - BackEnd",
             "description": "Desafio Fullstack para a Shopper.com.br, este projeto é o BackEnd para uma ferramenta que possibilita a atualização massiva de produtos por meio do envio de um arquivo CSV, além de oferecer recursos adicionais de regas de negócio.",
             "details": [
