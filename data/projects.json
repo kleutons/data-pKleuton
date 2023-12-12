@@ -110,7 +110,7 @@
                 "Node.js", "React", "Mysql", "TypeScript", "Styled Components"
             ],
             "link": {
-                "repo": "https://github.com/kleutons/shopper-backend-v2",
+                "repo": "https://github.com/kleutons/shopper-frontend-v2",
                 "site": "https://shopper-frontend-v2.vercel.app"
             },
             "img": {
@@ -119,6 +119,37 @@
                 "others": [
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot1.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot2.png"
+                ]
+            }
+        },
+        {
+            "slug": "smartfit",
+            "title": "Desafio Rede de Academias Smart Fit",
+            "description": "Desafio de frontend para reaberturas das academias da rede  Smart Fit pós pandemia, esse projeto foi desenvolvido com Angular e utiliza a API externa para listar academias abertas ou fechadas. O objetivo deste desafio é aprimorar minhas habilidades técnicas no desenvolvimento de software.",
+            "details": [
+                "Carrega unidades através do arquivo json https://test-frontend-developer.s3.amazonaws.com/data/locations.json com method GET",
+                "Busca todas as unidades de acedemias",
+                "Busca unidades com filtros",
+                "Mostra previsão de resultados encontrados",
+                "Mostra unidades ao buscar",
+                "Filtrar unidades abertas ou fechadas",
+                "Filtrar unidades por período de funcionamento",
+                "Caso não encontre unidades, mostrar uma menssagem ao usuário: Nenhuma unidade encontrada",
+                "Validar para mostrar ícones corretos de acordo com o status"
+            ],
+            "techs": [
+                "Angular", "TypeScript", "CSS"
+            ],
+            "link": {
+                "repo": "https://github.com/kleutons/angular-smartfit",
+                "site": "https://kleutons.github.io/angular-smartfit/"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/smartfit/smartfit_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/smartfit/smartfit_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/smartfit/smartfit_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/smartfit/smartfit_ot2.png"
                 ]
             }
         },
@@ -149,6 +180,34 @@
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot2.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot3.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/cappt/cappt_ot4.png"
+                ]
+            }
+        },
+        {
+            "slug": "shopper",
+            "title": "Shopper - BackEnd",
+            "description": "Desafio Fullstack para a Shopper.com.br, este projeto é o BackEnd para uma ferramenta que possibilita a atualização massiva de produtos por meio do envio de um arquivo CSV, além de oferecer recursos adicionais de regas de negócio.",
+            "details": [
+                "Conexão com base de dados MySQL",
+                "Leitura de arquivo CSV",
+                "O sistema deve permitir que o usuário carregue o arquivo de precificação",
+                "Regras de Negócio: a atualização de produtos só ocorre se as exigências da empresa forem atendidas",
+                "Validações:  Códigos de produtos informados existem, valores numéricos validos, preços não pode estar abaixo do custo, e etc.. ",
+                "Utilização do Node.js com Fastify"
+            ],
+            "techs": [
+                "Node.js","Mysql", "TypeScript"
+            ],
+            "link": {
+                "repo": "https://github.com/kleutons/shopper-backend-v2",
+                "site": "https://shopper-backend-v2.vercel.app/product"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopperBack/shopperBack_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopperBack/shopperBack_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopperBack/shopperBack_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopperBack/shopperBack_ot2.png"
                 ]
             }
         },
