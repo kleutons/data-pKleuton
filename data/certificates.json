@@ -28,10 +28,10 @@
         ],
         "DataCertificates" : [
             {  
-                "name": "Semana Programador 7x OutSystem",
-                "hours": 20,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_basic.jpg",
-                "skills": ["OutSystems", "LowCode"]
+                "name": "Reactive - React em OutSystems",
+                "hours": 14,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_react.jpg",
+                "skills": ["OutSystems","React", "LowCode"]
             },
             {  
                 "name": "Formação JavaScript Developer",
@@ -39,6 +39,12 @@
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/javascript.jpg",
                 "skills": ["JavaScript", "Objetos e Classes", "Estrutura de Repetição", "Integração com APIs", "Variavies, Escopos e Tipos de Dados", "Arrays", "Promises e Assincronismo"],
                 "link": "https://www.dio.me/certificate/FFB9F139"
+            },
+            {  
+                "name": "Semana Programador 7x OutSystem",
+                "hours": 20,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_basic.jpg",
+                "skills": ["OutSystems", "LowCode"]
             },
             {  
                 "name": "Profissão Programador",
