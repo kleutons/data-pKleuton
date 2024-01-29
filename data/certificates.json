@@ -32,7 +32,7 @@
                 "hours": 14,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_react.jpg",
                 "skills": ["OutSystems","React","Banco de Dados", "Lógica de Programação", "Componentização WebBlocs", "Arquitetura Básica", "Itegração com APis", "Client Action e Service Actions", "Persistência de dados"],
-                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045&Source=Email-LinkedIn"
+                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
             },
             {  
                 "name": "Formação JavaScript Developer",
@@ -40,6 +40,13 @@
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/javascript.jpg",
                 "skills": ["JavaScript", "Objetos e Classes", "Estrutura de Repetição", "Integração com APIs", "Variavies, Escopos e Tipos de Dados", "Arrays", "Promises e Assincronismo"],
                 "link": "https://www.dio.me/certificate/FFB9F139"
+            },
+            {  
+                "name": "REST - OutSystems",
+                "hours": 8,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_rest.jpg",
+                "skills": ["OutSystems","Rest","Criação de APIs","Itegração com APIs", "Client Action e Service Actions", "Persistência de dados"],
+                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
             },
             {  
                 "name": "Semana Programador 7x OutSystem",
