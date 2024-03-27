@@ -83,6 +83,24 @@
                 "link": "https://www.dio.me/certificate/4A1DBE9F"
             },
             {  
+                "name": "OutSystem Mobile",
+                "hours": 34,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_mobile.jpg",
+                "skills": ["OutSystems", "Mobile"]
+            },
+            {  
+                "name": "OutSystem Arquitetura",
+                "hours": 10,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_arqui.jpg",
+                "skills": ["OutSystems", "Mobile"]
+            },
+            {  
+                "name": "OutSystem Componente da Forge",
+                "hours": 10,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_forge.jpg",
+                "skills": ["OutSystems", "Forge"]
+            },
+            {  
                 "name": "Descubra a Nuvem AWS",
                 "hours": 6,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/aws.jpg",
