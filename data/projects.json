@@ -3,7 +3,7 @@
         {
             "slug": "easyfin",
             "title": "easyFin - Revolucionando a Gestão Financeira!",
-            "description": "EasyFin é uma solução inovadora criada com hashtag#LowCode hashtag#Outsystems, oferecendo um design único e minimalista. Foi construído sobre uma arquitetura robusta de micro serviços em 3 camadas permite futuras expansões, tornando o sistema flexível e escalável.",
+            "description": "EasyFin é uma solução inovadora criada com #LowCode #Outsystems, oferecendo um design único e minimalista. Foi construído sobre uma arquitetura robusta de micro serviços em 3 camadas permite futuras expansões, tornando o sistema flexível e escalável.",
             "details": [
                 "Layout responsivo para uma ótima experiência em diferentes dispositivos.",
                 "Multi-idiomas: Português e Inglês.",
@@ -21,7 +21,6 @@
                 "OutSystems", "Sql", "JavaScript", "CSS"
             ],
             "link": {
-                "repo": "https://www.linkedin.com/posts/kleuton-novais_easyfin-lowcode-outsystems-activity-7201774516472102912-zOVF/",
                 "site": "https://personal-qzvgspdt.outsystemscloud.com/EasyFin/"
             },
             "img": {
@@ -34,7 +33,8 @@
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot4.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot5.png"
                 ]
-            }
+            },
+            "video": "629OaHlrASU"
         },
         {
             "slug": "ibblog",
