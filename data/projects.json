@@ -1,6 +1,42 @@
 {
     "data" : [
         {
+            "slug": "easyfin",
+            "title": "easyFin - Revolucionando a Gestão Financeira!",
+            "description": "EasyFin é uma solução inovadora criada com hashtag#LowCode hashtag#Outsystems, oferecendo um design único e minimalista. Foi construído sobre uma arquitetura robusta de micro serviços em 3 camadas permite futuras expansões, tornando o sistema flexível e escalável.",
+            "details": [
+                "Layout responsivo para uma ótima experiência em diferentes dispositivos.",
+                "Multi-idiomas: Português e Inglês.",
+                "Painel Dashboard: Gráficos atualizados para uma visão clara e objetiva.",
+                "Transações: Controle e exibição de extratos das contas bancárias ou caixa local da empresa.",
+                "Finanças: Gestão de contas a pagar e a receber, com visualização de contas pagas, em aberto e vencidas.",
+                "Organização: Criação de várias contas bancárias ou caixas separados para melhor gestão de despesas.",
+                "Configuração de Categorias: Personalização conforme as necessidades da empresa.",
+                "Cadastro de Clientes/Empresas: Para vincular despesas ou recebimentos.",
+                "Impressão: Faturas e recibos pagos.",
+                "Calculadora em Tempo Real: Auxilia em contas rápidas.",
+                "Consultas Aprimoradas em SQL: Para uma análise detalhada e precisa."
+            ],
+            "techs": [
+                "OutSystems", "Sql", "JavaScript", "CSS"
+            ],
+            "link": {
+                "repo": "#",
+                "site": "https://personal-qzvgspdt.outsystemscloud.com/EasyFin/"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot5.png"
+                ]
+            }
+        },
+        {
             "slug": "ibblog",
             "title": "iBBlog - Notícias do IBGE",
             "description": "Desenvolvido utilizando Angular junto com a API externa do IBGE, o iBBlog possui exibição de notícias, notícias em destaque, notícias por categorias e muito mais, tudo isso para manter os visitantes sempre atualizados. Este projeto teve como objetivo aprimorar minhas habilidades de desenvolvimento de software Angular.",
