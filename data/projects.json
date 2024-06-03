@@ -155,6 +155,28 @@
             }
         },
         {
+            "slug": "croppyimage",
+            "title": "CroppyImage - Componente Lançado na Forge OutSystems!",
+            "description": "Croppy Image é uma incrível ferramenta de corte de imagens, projetada para ser perfeitamente integrada aos seus aplicativos. Com suporte para visualizações em tempo real do lado do cliente usando JavaScript, você pode cortar suas imagens com rapidez e precisão.",
+            "details": [
+                "Recortes de imagens em tempo real",
+                "Padronização dos tamanhos de corte utilizando as proporções mais comuns, como 1:1, 4:3 e 16:9...",
+                "Recortes de imagens do Banco de Dados",
+                "Recortes de imagens via Upload"
+            ],
+            "techs": [
+                "OutSystems", "JavaScript", "CSS"
+            ],
+            "link": {
+                "site": "https://personal-qzvgspdt.outsystemscloud.com/CroppyImageDemo/",
+                "youtube": "A1Xe2FFNDr4"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_large.png"
+            }
+        },
+        {
             "slug": "shopper",
             "title": "Shopper - Desafio FullStack",
             "description": "Desenvolvido como parte do desafio Fullstack para a Shopper.com.br, este projeto é uma ferramenta que possibilita a atualização massiva de produtos por meio do envio de um arquivo CSV, além de oferecer recursos adicionais de regas de negócio. Com um design limpo, objetivo e 100% responsivo",
