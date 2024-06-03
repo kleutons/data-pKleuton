@@ -23,6 +23,9 @@
             "link": {
                 "site": "https://personal-qzvgspdt.outsystemscloud.com/EasyFin/"
             },
+            "video":{
+                "youtube": "629OaHlrASU"
+            },
             "img": {
                 "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_tub.png",
                 "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_large.png",
@@ -33,8 +36,7 @@
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot4.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot5.png"
                 ]
-            },
-            "video": "629OaHlrASU"
+            }
         },
         {
             "slug": "ibblog",
