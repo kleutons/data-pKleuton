@@ -37,6 +37,31 @@
             }
         },
         {
+            "slug": "sevenchat",
+            "title": "sevenChat - Mobile OutSystems!",
+            "description": "📱O SevenChat não é apenas mais um aplicativo de rede social; é uma experiência completa, projetada para facilitar a conexão e interação entre os usuários",
+            "details": [
+                "Perfis Personalizados: Os usuários têm total liberdade para criar e editar seus perfis conforme desejarem.",
+                "Conteúdo Dinâmico: Com a capacidade de adicionar, editar e excluir posts e stories, os usuários podem compartilhar momentos especiais com facilidade.",
+                "Edição de Imagens Integrada: A função de edição de imagens permite aos usuários recortar suas fotos antes de publicá-las, garantindo a perfeição em cada postagem.",
+                "Conversas Instantâneas: O recurso de chat facilita a comunicação entre os usuários, promovendo interações mais próximas.",
+                "Notificações em Tempo Real: Mantenha-se atualizado com as últimas novidades da rede através do nosso sistema de notificações em tempo real.",
+                "Desempenho Otimizado: Utilizando local storage para armazenar consultas SQL de dados mais frequentemente acessados, garantimos uma experiência ágil e eficiente.",
+                "Arquitetura em Três Camadas: A robusta arquitetura em três camadas da OutSystems proporciona uma base sólida para a escalabilidade e manutenção contínua do aplicativo."
+            ],
+            "techs": [
+                "OutSystems", "Mobile", "Sql"
+            ],
+            "link": {
+                "site": "https://www.linkedin.com/posts/kleuton-novais_outsystems-desenvolvimento-mobile-activity-7179131972756127744-sLgT",
+                "youtube": "GooKW26pAK0"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_large.png"
+            }
+        },
+        {
             "slug": "ibblog",
             "title": "iBBlog - Notícias do IBGE",
             "description": "Desenvolvido utilizando Angular junto com a API externa do IBGE, o iBBlog possui exibição de notícias, notícias em destaque, notícias por categorias e muito mais, tudo isso para manter os visitantes sempre atualizados. Este projeto teve como objetivo aprimorar minhas habilidades de desenvolvimento de software Angular.",
