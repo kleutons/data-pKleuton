@@ -1,7 +1,7 @@
 { 
     "data" : {
         "prev": "Olá, procurando um",
-        "techs": ["Desenvolvedor", "OutSystems", "Full Stack"],
+        "techs": ["Desenvolvedor", "Full Stack"],
         "intro": "Meu nome é <b>Cleuton Novais</b> ou mais conhecido como <b>Kleuton</b>, sou programador e entusiasta em tecnologia, minha jornada iniciou como hobby quando decidi criar minha própria aplicação em PHP, desde então me aprofundei em outras tecnologias para continuar minha evolução como programador. <br/> Meu Objetivo é Criar <b>Aplicações Incríveis</b> para a Melhor Experiência ao Usuário, estou Pronto para Abraçar Novas e Oportunidades e <b>Desafios!</b>"
     }
 }
