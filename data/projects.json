@@ -1,6 +1,37 @@
 {
     "data" : [
         {
+            "slug": "radiocaraiba",
+            "title": "Rádio Caraíba 96.7 FM",
+            "description": "O novo site da Rádio Caraíba 96.7 FM foi desenvolvido para revolucionar a presença digital da rádio, com um design responsivo e funcionalidades modernas, trazendo mais interação e praticidade para os ouvintes e a equipe.",
+            "details": [
+                "Layout responsivo para uma experiência impecável em todos os dispositivos.",
+                "Gestão de Equipe: Apresentação de jornalistas, funcionários e suas participações nos programas da rádio.",
+                "Gestão de Anúncios e Banners: Área dedicada para exibição dinâmica de anúncios com slides modernos.",
+                "Player Ao Vivo: Transmissão da rádio em tempo real, garantindo interação com os ouvintes.",
+                "Cadastro de Notícias: Publicação de matérias organizadas por categorias para fácil navegação.",
+                "Administração de Páginas e Usuários: Gerenciamento intuitivo para atualização do conteúdo.",
+                "Configurações Personalizáveis: Flexibilidade para ajustes conforme as necessidades da rádio.",
+                "Multiusuários: Permite acesso de diferentes perfis, com permissões definidas.",
+                "SEO Otimizado: Para aumentar a visibilidade nos motores de busca.",
+                "Backup e Segurança: Implementação de boas práticas para garantir a integridade dos dados."
+            ],
+            "techs": [
+                "PHP", "MySQL", "JavaScript", "CSS", "HTML"
+            ],
+            "link": {
+                "site": "https://radiocaraibafm.com/",
+                "youtube": "Jy-aMCC-yhE"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/radiocaraiba/radioCaraiba_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/radiocaraiba/radioCaraiba_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/easyFin/easyFin_ot1.png"
+                ]
+            }
+        },
+        {
             "slug": "easyfin",
             "title": "easyFin - Revolucionando a Gestão Financeira!",
             "description": "EasyFin é uma solução inovadora criada com #LowCode #Outsystems, oferecendo um design único e minimalista. Foi construído sobre uma arquitetura robusta de micro serviços em 3 camadas permite futuras expansões, tornando o sistema flexível e escalável.",
