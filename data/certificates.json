@@ -28,31 +28,17 @@
         ],
         "DataCertificates" : [
             {  
-                "name": "Reactive - React em OutSystems",
-                "hours": 14,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_react.jpg",
-                "skills": ["OutSystems","React","Banco de Dados", "Lógica de Programação", "Componentização WebBlocs", "Arquitetura Básica", "Itegração com APis", "Client Action e Service Actions", "Persistência de dados"],
-                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
+                "name": "Formação Node.JS",
+                "hours": 30,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/nodejs.jpg",
+                "skills": ["Node.js", "TypeScript", "JWT"]
             },
             {  
-                "name": "Formação JavaScript Developer",
-                "hours": 39,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/javascript.jpg",
-                "skills": ["JavaScript", "Objetos e Classes", "Estrutura de Repetição", "Integração com APIs", "Variavies, Escopos e Tipos de Dados", "Arrays", "Promises e Assincronismo"],
-                "link": "https://www.dio.me/certificate/FFB9F139"
-            },
-            {  
-                "name": "REST - OutSystems",
-                "hours": 8,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_rest.jpg",
-                "skills": ["OutSystems","Rest","Criação de APIs","Itegração com APIs", "Client Action e Service Actions", "Persistência de dados"],
-                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
-            },
-            {  
-                "name": "Semana Programador 7x OutSystem",
-                "hours": 20,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_basic.jpg",
-                "skills": ["OutSystems", "LowCode"]
+                "name": "Formação Lógica de Programação",
+                "hours": 41,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/logicap.jpg",
+                "skills": ["Lógica de Programação", "Algoritmos e Fluxogramas", "Variáveis", "Operadores e Expressões", "Estruturas Condicionais", "Estruturas de Repetição", "Funções", "Estrutura de Dados e Objetos"],
+                "link": "https://www.dio.me/certificate/4A1DBE9F"
             },
             {  
                 "name": "Profissão Programador",
@@ -62,13 +48,6 @@
                 "link": "https://e-certificado.com/login/visualizar?c=1786949AD583A4F811821700"
             },
             {  
-                "name": "Formação Angular Developer",
-                "hours": 37,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/angular.jpg",
-                "skills": ["Angular", "Integração com APIs", "TypeScript", "Pipes", "Guards"],
-                "link": "https://www.dio.me/certificate/FBF5B1E8"
-            },
-            {  
                 "name": "iFood Programação do Zero",
                 "hours": 68,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/ifood.jpg",
@@ -76,11 +55,39 @@
                 "link": "https://www.dio.me/certificate/9FD6F341"
             },
             {  
-                "name": "Formação Lógica de Programação",
-                "hours": 41,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/logicap.jpg",
-                "skills": ["Lógica de Programação", "Algoritmos e Fluxogramas", "Variáveis", "Operadores e Expressões", "Estruturas Condicionais", "Estruturas de Repetição", "Funções", "Estrutura de Dados e Objetos"],
-                "link": "https://www.dio.me/certificate/4A1DBE9F"
+                "name": "Descubra a Nuvem AWS",
+                "hours": 6,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/aws.jpg",
+                "skills": ["AWS", "Amazon", "Cloud"],
+                "link": "https://www.dio.me/certificate/916EC9C1"
+            },
+            {  
+                "name": "Formação JavaScript Developer",
+                "hours": 39,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/javascript.jpg",
+                "skills": ["JavaScript", "Objetos e Classes", "Estrutura de Repetição", "Integração com APIs", "Variavies, Escopos e Tipos de Dados", "Arrays", "Promises e Assincronismo"],
+                "link": "https://www.dio.me/certificate/FFB9F139"
+            },
+            {  
+                "name": "Reactive - React em OutSystems",
+                "hours": 14,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_react.jpg",
+                "skills": ["OutSystems","React","Banco de Dados", "Lógica de Programação", "Componentização WebBlocs", "Arquitetura Básica", "Itegração com APis", "Client Action e Service Actions", "Persistência de dados"],
+                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
+            },
+            {  
+                "name": "REST - OutSystems",
+                "hours": 8,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_rest.jpg",
+                "skills": ["OutSystems","Rest","Criação de APIs","Itegração com APIs", "Client Action e Service Actions", "Persistência de dados"],
+                "link": "https://www.rafaoutsystems.com/talentportal/Profile?AccessKey=e2d08968-d7c6-4f0b-b639-5c560dcb2045"
+            },
+            {  
+                "name": "Formação Angular Developer",
+                "hours": 37,
+                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/angular.jpg",
+                "skills": ["Angular", "Integração com APIs", "TypeScript", "Pipes", "Guards"],
+                "link": "https://www.dio.me/certificate/FBF5B1E8"
             },
             {  
                 "name": "OutSystem Mobile",
@@ -99,13 +106,6 @@
                 "hours": 10,
                 "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/outsystem_forge.jpg",
                 "skills": ["OutSystems", "Forge"]
-            },
-            {  
-                "name": "Descubra a Nuvem AWS",
-                "hours": 6,
-                "img": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/certificates/aws.jpg",
-                "skills": ["AWS", "Amazon", "Cloud"],
-                "link": "https://www.dio.me/certificate/916EC9C1"
             },
             {  
                 "name": "Versionamento Git GitHub",
