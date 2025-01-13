@@ -32,6 +32,38 @@
             }
         },
         {
+            "slug": "myshop",
+            "title": "MyShop e-commerce",
+            "description": "MyShop foi meticulosamente desenvolvido para proporcionar uma experiência única e minimalista. Este e-commerce é concebido com um foco exclusivo nos produtos, visando a melhor usabilidade para o usuário. Apresentando um design limpo e elegante, sua missão é destacar os produtos, permitindo que você se concentre no que realmente importa e encontre facilmente os itens desejados para compra.",
+            "details": [
+                "Desenvolvido com Next.js 13+ para desempenho superior",
+                "Integração segura com a API Strapi.io para processamento de pagamentos",
+                "Layout totalmente responsivo para uma experiência consistente em qualquer dispositivo",
+                "Página inicial atraente com banners e carrossel de produtos para uma navegação envolvente",
+                "Carrinho de compras inteligente com modal para uma experiência de compra eficiente",
+                "Página de compras intuitiva com seletor de quantidades para uma personalização fácil",
+                "Sistema de busca de produtos e categorias para encontrar rapidamente o que você procura"
+            ],
+            "techs": [
+                "React", "Next.js", "Node.js", "TypeScript", "Tailwind"
+            ],
+            "link": {
+                "repo": "https://github.com/kleutons/my-shop",
+                "site": "https://myshop-kleuton.vercel.app"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot5.png"	
+                ]
+            }
+        },
+        {
             "slug": "easyfin",
             "title": "easyFin - Revolucionando a Gestão Financeira!",
             "description": "EasyFin é uma solução inovadora criada com #LowCode #Outsystems, oferecendo um design único e minimalista. Foi construído sobre uma arquitetura robusta de micro serviços em 3 camadas permite futuras expansões, tornando o sistema flexível e escalável.",
@@ -67,31 +99,7 @@
                 ]
             }
         },
-        {
-            "slug": "sevenchat",
-            "title": "sevenChat - Mobile OutSystems!",
-            "description": "📱O SevenChat não é apenas mais um aplicativo de rede social; é uma experiência completa, projetada para facilitar a conexão e interação entre os usuários",
-            "details": [
-                "Perfis Personalizados: Os usuários têm total liberdade para criar e editar seus perfis conforme desejarem.",
-                "Conteúdo Dinâmico: Com a capacidade de adicionar, editar e excluir posts e stories, os usuários podem compartilhar momentos especiais com facilidade.",
-                "Edição de Imagens Integrada: A função de edição de imagens permite aos usuários recortar suas fotos antes de publicá-las, garantindo a perfeição em cada postagem.",
-                "Conversas Instantâneas: O recurso de chat facilita a comunicação entre os usuários, promovendo interações mais próximas.",
-                "Notificações em Tempo Real: Mantenha-se atualizado com as últimas novidades da rede através do nosso sistema de notificações em tempo real.",
-                "Desempenho Otimizado: Utilizando local storage para armazenar consultas SQL de dados mais frequentemente acessados, garantimos uma experiência ágil e eficiente.",
-                "Arquitetura em Três Camadas: A robusta arquitetura em três camadas da OutSystems proporciona uma base sólida para a escalabilidade e manutenção contínua do aplicativo."
-            ],
-            "techs": [
-                "OutSystems", "Mobile", "Sql"
-            ],
-            "link": {
-                "site": "https://www.linkedin.com/posts/kleuton-novais_outsystems-desenvolvimento-mobile-activity-7179131972756127744-sLgT",
-                "youtube": "GooKW26pAK0"
-            },
-            "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_tub.png",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_large.png"
-            }
-        },
+       
         {
             "slug": "ibblog",
             "title": "iBBlog - Notícias do IBGE",
@@ -125,38 +133,7 @@
                 ]
             }
         },
-        {
-            "slug": "myshop",
-            "title": "MyShop e-commerce",
-            "description": "MyShop foi meticulosamente desenvolvido para proporcionar uma experiência única e minimalista. Este e-commerce é concebido com um foco exclusivo nos produtos, visando a melhor usabilidade para o usuário. Apresentando um design limpo e elegante, sua missão é destacar os produtos, permitindo que você se concentre no que realmente importa e encontre facilmente os itens desejados para compra.",
-            "details": [
-                "Desenvolvido com Next.js 13+ para desempenho superior",
-                "Integração segura com a API Strapi.io para processamento de pagamentos",
-                "Layout totalmente responsivo para uma experiência consistente em qualquer dispositivo",
-                "Página inicial atraente com banners e carrossel de produtos para uma navegação envolvente",
-                "Carrinho de compras inteligente com modal para uma experiência de compra eficiente",
-                "Página de compras intuitiva com seletor de quantidades para uma personalização fácil",
-                "Sistema de busca de produtos e categorias para encontrar rapidamente o que você procura"
-            ],
-            "techs": [
-                "React", "Next.js", "Node.js", "TypeScript", "Tailwind"
-            ],
-            "link": {
-                "repo": "https://github.com/kleutons/my-shop",
-                "site": "https://myshop-kleuton.vercel.app"
-            },
-            "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_tub.png",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_large.png",
-                "others": [
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot1.png",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot2.png",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot3.png",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot4.png",
-                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/myshop/myshop_ot5.png"	
-                ]
-            }
-        },
+        
         {
             "slug": "mytube",
             "title": "MyTube - Clone do Youtube",
@@ -186,28 +163,6 @@
             }
         },
         {
-            "slug": "croppyimage",
-            "title": "CroppyImage - Componente Lançado na Forge OutSystems!",
-            "description": "Croppy Image é uma incrível ferramenta de corte de imagens, projetada para ser perfeitamente integrada aos seus aplicativos. Com suporte para visualizações em tempo real do lado do cliente usando JavaScript, você pode cortar suas imagens com rapidez e precisão.",
-            "details": [
-                "Recortes de imagens em tempo real",
-                "Padronização dos tamanhos de corte utilizando as proporções mais comuns, como 1:1, 4:3 e 16:9...",
-                "Recortes de imagens do Banco de Dados",
-                "Recortes de imagens via Upload"
-            ],
-            "techs": [
-                "OutSystems", "JavaScript", "CSS"
-            ],
-            "link": {
-                "site": "https://personal-qzvgspdt.outsystemscloud.com/CroppyImageDemo/",
-                "youtube": "A1Xe2FFNDr4"
-            },
-            "img": {
-                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_tub.png",
-                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_large.png"
-            }
-        },
-        {
             "slug": "shopper",
             "title": "Shopper - Desafio FullStack",
             "description": "Desenvolvido como parte do desafio Fullstack para a Shopper.com.br, este projeto é uma ferramenta que possibilita a atualização massiva de produtos por meio do envio de um arquivo CSV, além de oferecer recursos adicionais de regas de negócio. Com um design limpo, objetivo e 100% responsivo",
@@ -234,6 +189,53 @@
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot1.png",
                     "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/shopper/shopper_ot2.png"
                 ]
+            }
+        },
+        {
+            "slug": "croppyimage",
+            "title": "CroppyImage - Componente Lançado na Forge OutSystems!",
+            "description": "Croppy Image é uma incrível ferramenta de corte de imagens, projetada para ser perfeitamente integrada aos seus aplicativos. Com suporte para visualizações em tempo real do lado do cliente usando JavaScript, você pode cortar suas imagens com rapidez e precisão.",
+            "details": [
+                "Recortes de imagens em tempo real",
+                "Padronização dos tamanhos de corte utilizando as proporções mais comuns, como 1:1, 4:3 e 16:9...",
+                "Recortes de imagens do Banco de Dados",
+                "Recortes de imagens via Upload"
+            ],
+            "techs": [
+                "OutSystems", "JavaScript", "CSS"
+            ],
+            "link": {
+                "site": "https://personal-qzvgspdt.outsystemscloud.com/CroppyImageDemo/",
+                "youtube": "A1Xe2FFNDr4"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/croppyImage/croppyImage_large.png"
+            }
+        },
+        {
+            "slug": "sevenchat",
+            "title": "sevenChat - Mobile OutSystems!",
+            "description": "📱O SevenChat não é apenas mais um aplicativo de rede social; é uma experiência completa, projetada para facilitar a conexão e interação entre os usuários",
+            "details": [
+                "Perfis Personalizados: Os usuários têm total liberdade para criar e editar seus perfis conforme desejarem.",
+                "Conteúdo Dinâmico: Com a capacidade de adicionar, editar e excluir posts e stories, os usuários podem compartilhar momentos especiais com facilidade.",
+                "Edição de Imagens Integrada: A função de edição de imagens permite aos usuários recortar suas fotos antes de publicá-las, garantindo a perfeição em cada postagem.",
+                "Conversas Instantâneas: O recurso de chat facilita a comunicação entre os usuários, promovendo interações mais próximas.",
+                "Notificações em Tempo Real: Mantenha-se atualizado com as últimas novidades da rede através do nosso sistema de notificações em tempo real.",
+                "Desempenho Otimizado: Utilizando local storage para armazenar consultas SQL de dados mais frequentemente acessados, garantimos uma experiência ágil e eficiente.",
+                "Arquitetura em Três Camadas: A robusta arquitetura em três camadas da OutSystems proporciona uma base sólida para a escalabilidade e manutenção contínua do aplicativo."
+            ],
+            "techs": [
+                "OutSystems", "Mobile", "Sql"
+            ],
+            "link": {
+                "site": "https://www.linkedin.com/posts/kleuton-novais_outsystems-desenvolvimento-mobile-activity-7179131972756127744-sLgT",
+                "youtube": "GooKW26pAK0"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/sevenChat/sevenChat_large.png"
             }
         },
         {
