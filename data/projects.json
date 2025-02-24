@@ -1,6 +1,42 @@
 {
     "data" : [
         {
+            "slug": "anotaai",
+            "title": "Desafio FullStack - Anotaai",
+            "description": "O desafio para o AnotaAi é um sistema inovador e completo que transforma a forma de gerenciar usuários, categorias e produtos. Com um frontend moderno e responsivo, aliado a um backend robusto, o projeto garante uma experiência de gerenciamento fluida e eficiente.",
+            "details": [
+                "Backend API REST construída com Node.js.",
+                "Backend Arquitetura Node.js em Camadas: Design modular para maior manutenção e escalabilidade.",
+                "Backend com Rotas Públicas e Privadas: Segurança e organização para diferentes níveis de acesso.",
+                "Frontend Layout Responsivo: Experiência impecável em todos os dispositivos.",
+                "Gestão de Usuários: Permite o gerenciamento de usuários com diferentes níveis de permissões.",
+                "Gestão de Categorias e Produtos: Organização e navegação facilitada por categorias.",
+                "Sistema de Busca: Busca rápida e eficiente de produtos.",
+                "Carrinho de Compras e Checkout: Experiência de compra simplificada e segura.",
+                "Autenticação e Login: Segurança com JWT (JSON Web Token).",
+                "Administração de Conteúdo: Facilidade na atualização e gerenciamento de dados."
+            ],
+            "techs": [
+                "Node.js", "MongoDB", "React", "TypeScript", "Tailwind"
+            ],
+            "link": {
+                "repo": "https://github.com/kleutons/node-fullstack-anotaai",
+                "site": "https://anotaai-kleuton.vercel.app/"
+            },
+            "img": {
+                "thumbnail": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_tub.png",
+                "large": "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_large.png",
+                "others": [
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot1.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot2.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot3.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot4.png",
+                    "https://raw.githubusercontent.com/kleutons/data-pKleuton/main/img/projects/anotaai/anotaai_ot5.png"
+                ]
+            }
+        },
+        {
             "slug": "radiocaraiba",
             "title": "Rádio Caraíba 96.7 FM",
             "description": "O novo site da Rádio Caraíba 96.7 FM foi desenvolvido para revolucionar a presença digital da rádio, com um design responsivo e funcionalidades modernas, trazendo mais interação e praticidade para os ouvintes e a equipe.",
